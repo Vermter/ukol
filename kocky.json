@@ -1,0 +1,218 @@
+[
+    {
+        "status": {
+            "verified": true,
+            "sentCount": 1
+        },
+        "_id": "591f98108dec2e14e3c20b10",
+        "__v": 0,
+        "text": "Cats must have fat in their diet because they can't produce it on their own.",
+        "source": "api",
+        "updatedAt": "2020-08-23T20:20:01.611Z",
+        "type": "cat",
+        "createdAt": "2018-01-04T01:10:54.673Z",
+        "deleted": false,
+        "used": false,
+        "user": "5a9ac18c7478810ea6c06381"
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "6500309d527fc1b4899ce5b3",
+        "user": "64e4808ed68f81b4ae848455",
+        "text": "Уникальный факт для Владимира.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-09-12T09:34:21.960Z",
+        "updatedAt": "2023-09-12T09:34:21.960Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "63c403642e5d8fd503485082",
+        "user": "63ba7c9d9964acb3c4caa7ce",
+        "text": "Rrrrr.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-01-15T13:45:08.505Z",
+        "updatedAt": "2023-01-15T13:45:08.505Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "626d68bc02af68f9e3f08be0",
+        "user": "626d689202af68f9e3f08bcd",
+        "text": "Best at doing one thing.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2022-04-30T16:50:04.955Z",
+        "updatedAt": "2022-04-30T16:50:04.955Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "627a4dca7d22f6d66ab0a172",
+        "user": "626d537de5fb639a3c4fed64",
+        "text": "Features of cats Cats can jump five times their own height.  Cats do not see in the dark, but the structure of the cat's eye allows these animals to clearly distinguish objects under lighting that is six times worse than what a person needs for clear vision. In the semi-darkness, objects barely visible to the human eye are clearly visible to the cat.  Sweat glands in cats are located only on the paws.  Cats sleep an average of 14-18 hours a day.  The cat's ear has about thirty muscles, while the human ear has only six. The cat can rotate its ear separately by 180 degrees. Thus, it simultaneously captures and analyzes sounds coming from two directions.  When the smell enters the cat's open mouth, the molecules are caught by the sky, on which the highly sensitive organ Jacob's brain is located. With the help of this organ, cats can sense other cats at a distance of one hundred meters.  Cat skin produces sweat that contains a chemical called cholecalciferol. When a cat lies in the sun, this substance is converted into vitamin D under the influence of sunlight. If a cat lies in the sun and washes, then the vitamin enters the body by itself, nourishing the cat with energy.  White cats with blue eyes are more likely to be deaf.  With the help of the tail, the cat is able to transmit up to ten different signals, expressing emotions at the moment. The spectrum is very wide: from calm relaxation to active aggression towards the enemy.  Cats are able to see with their peripheral vision 285 degree.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2022-05-10T11:34:34.790Z",
+        "updatedAt": "2022-05-10T11:34:34.790Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": true,
+            "sentCount": 1
+        },
+        "_id": "591f98803b90f7150a19c1ed",
+        "__v": 0,
+        "text": "Kittens who are taken along on short, trouble-free car trips to town tend to make good passengers when they get older. They get used to the sounds and motions of traveling and make less connection between the car and the visits to the vet.",
+        "source": "api",
+        "updatedAt": "2020-08-23T20:20:01.611Z",
+        "type": "cat",
+        "createdAt": "2018-01-04T01:10:54.673Z",
+        "deleted": false,
+        "used": false,
+        "user": "5a9ac18c7478810ea6c06381"
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "6579bcff1109709f5a2b1574",
+        "user": "6570c87954b3ed21dc05aa52",
+        "text": "Cats spend 70% of their lives sleeping.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-12-13T14:17:35.358Z",
+        "updatedAt": "2023-12-13T14:17:35.358Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "63c004307faacb8ad47bb04e",
+        "user": "63bffafe7faacb8ad47ba92b",
+        "text": "Кот больной.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-01-12T12:59:28.786Z",
+        "updatedAt": "2023-01-12T12:59:28.786Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "63dc2cf22b393f8bf4bbe1d7",
+        "user": "63cd5150eec42e60ec32de30",
+        "text": "The pattern on the nose of each cat is unique, like human fingerprints. abaut TEST2.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-02-02T21:36:50.128Z",
+        "updatedAt": "2023-02-02T21:36:50.128Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": true,
+            "sentCount": 1
+        },
+        "_id": "591f7aab0cf1d60ee8afcd62",
+        "__v": 0,
+        "text": "The cat's clavicle, or collarbone, does not connect with other bones but is buried in the muscles of the shoulder region. This lack of a functioning collarbone allows them to fit through any opening the size of their head.",
+        "source": "api",
+        "updatedAt": "2020-08-23T20:20:01.611Z",
+        "type": "cat",
+        "createdAt": "2018-08-06T20:20:02.449Z",
+        "deleted": false,
+        "used": false,
+        "user": "5a9ac18c7478810ea6c06381"
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "65a0161f4a0b057f944c13f4",
+        "user": "6598632d22b133ae60b20a73",
+        "text": "A cat is not a dog1.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2024-01-11T16:23:59.360Z",
+        "updatedAt": "2024-01-11T16:23:59.360Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "63c53739658b95bea2c7bf6b",
+        "user": "63bbaedb305a83e75c1fc46f",
+        "text": "Sfb.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-01-16T11:38:33.289Z",
+        "updatedAt": "2023-01-16T11:38:33.289Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "62b092ef7ba56cc1ff718b2d",
+        "user": "62a873ca47a75f7c3fb4235e",
+        "text": "Ww34rr.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2022-06-20T15:31:59.454Z",
+        "updatedAt": "2022-06-20T15:31:59.454Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "65fda7b68961e5a4987d4185",
+        "user": "65e50ea7be13cdeda2fe1f42",
+        "text": "Cats are grey and black.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2024-03-22T15:45:58.482Z",
+        "updatedAt": "2024-03-22T15:45:58.482Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "627392b278a353cfcd522338",
+        "user": "6264e6a2b09884b2f29747f1",
+        "text": "!:№:!№;%:.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2022-05-05T09:02:42.612Z",
+        "updatedAt": "2022-05-05T09:02:42.612Z",
+        "__v": 0
+    }
+]
