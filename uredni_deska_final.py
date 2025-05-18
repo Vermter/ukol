@@ -19,11 +19,11 @@ urls = urls_df["url"].tolist()
 temata = { 
     "fotovoltaika", "fve", "baterie", "bess", "smr", "větrný", "fotovoltaický", 
     "solární", "obnovitelný", "jaderný", "energie", "elektrárna", 
-    "vte", "tr", "transformovna", "rozpočet", "kabel"
+    "vte", "tr", "transformovna", "rozpočet", "kabel", "pes", "elektřina", "rozvodna", "dotace", "školák"
 }
 
 # Definice zakázaných slov
-zakazana_slova = {"odstávka"}
+zakazana_slova = {"odstávka", "dodávka"}
 
 # Funkce pro nahrazení zkratek za plné názvy
 def replace_abbreviations(text):
