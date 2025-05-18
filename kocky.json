@@ -1,16 +1,198 @@
 [
     {
         "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "641083742382a2c7c21a225d",
+        "user": "64014dd59444b2a501a1107b",
+        "text": "Tall cat is nice.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-03-14T14:23:48.423Z",
+        "updatedAt": "2023-03-14T14:23:48.423Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "62717f4e6703b18683185fc9",
+        "user": "626587703279112386784f7c",
+        "text": "Toпить koтayt – в течение 7 поколений обречь свой род на возможные насильственные смерти в том числе и через утопление.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2022-05-03T19:15:26.355Z",
+        "updatedAt": "2022-05-03T19:15:26.355Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "65ad4ce22976af79f38d0cbf",
+        "user": "65a10ce7ae41a9d2cca4f2e2",
+        "text": "Ù.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2024-01-21T16:57:06.783Z",
+        "updatedAt": "2024-01-21T16:57:06.783Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "62436df3f329dce574d3d7d6",
+        "user": "62408c7d2d044f255236a6f5",
+        "text": "Добавить.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2022-03-29T20:37:07.356Z",
+        "updatedAt": "2022-03-29T20:37:07.356Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "62770c6b0197dc5c30008a7b",
+        "user": "626c5c3341f4aa428ac1f6af",
+        "text": "Манул-дикая порода кошек.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2022-05-08T00:18:51.537Z",
+        "updatedAt": "2022-05-08T00:18:51.537Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "65755017b41e50a48979477c",
+        "user": "656b5868b6ee12597ba93aaa",
+        "text": "Кошки не любят запах цитрусовых. Этот факт можно использовать для создания средств, отбивающих охоту гадить в определенных местах или точить коготки.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-12-10T05:43:51.456Z",
+        "updatedAt": "2023-12-10T05:43:51.456Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "64fb46f3fd10cdccf381394a",
+        "user": "64fb4569fd10cdccf381380a",
+        "text": "Asefmlsefkjkl.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-09-08T16:08:19.205Z",
+        "updatedAt": "2023-09-08T16:08:19.205Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "652d8d6cfbe76ba7ba4ddcdb",
+        "user": "65129024b7e431fd03968416",
+        "text": "Ормрпсор.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-10-16T19:22:20.818Z",
+        "updatedAt": "2023-10-16T19:22:20.818Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "641082fb2382a2c7c21a2218",
+        "user": "63fb745efcf661e5a0978073",
+        "text": "Hello kyti chad.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-03-14T14:21:47.604Z",
+        "updatedAt": "2023-03-14T14:21:47.604Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "65aaa068ba9e25edd10e654d",
+        "user": "61b11802f9c77cdad2d21bd3",
+        "text": "Рырырырырыроы.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2024-01-19T16:16:40.425Z",
+        "updatedAt": "2024-01-19T16:16:40.425Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "66d66c034259a011f37bf68d",
+        "user": "66d65a174259a011f37bd849",
+        "text": "President Bill Clinton’s cat, Socks, was a media darling during the Clinton administration and was said to receive more letters than the President himself.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2024-09-03T01:53:07.634Z",
+        "updatedAt": "2024-09-03T01:53:07.634Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "6165f5b009dda700175d8165",
+        "type": "cat",
+        "deleted": false,
+        "user": "6165f5a509dda700175d8161",
+        "text": "12.",
+        "createdAt": "2021-10-12T20:53:04.052Z",
+        "updatedAt": "2021-10-12T20:53:04.052Z",
+        "__v": 0
+    },
+    {
+        "status": {
+            "verified": null,
+            "sentCount": 0
+        },
+        "_id": "64762381784c7bdfe67a6253",
+        "user": "6475c8fc784c7bdfe67a247c",
+        "text": "Кіся линяє. Дуже багато.",
+        "type": "cat",
+        "deleted": false,
+        "createdAt": "2023-05-30T16:25:37.423Z",
+        "updatedAt": "2023-05-30T16:25:37.423Z",
+        "__v": 0
+    },
+    {
+        "status": {
             "verified": true,
             "sentCount": 1
         },
-        "_id": "591f98108dec2e14e3c20b10",
+        "_id": "591f98883b90f7150a19c2a7",
         "__v": 0,
-        "text": "Cats must have fat in their diet because they can't produce it on their own.",
+        "text": "A cat can sprint at about thirty-one miles per hour.",
         "source": "api",
         "updatedAt": "2020-08-23T20:20:01.611Z",
         "type": "cat",
-        "createdAt": "2018-01-04T01:10:54.673Z",
+        "createdAt": "2018-04-19T20:20:03.190Z",
         "deleted": false,
         "used": false,
         "user": "5a9ac18c7478810ea6c06381"
@@ -20,199 +202,13 @@
             "verified": null,
             "sentCount": 0
         },
-        "_id": "6500309d527fc1b4899ce5b3",
-        "user": "64e4808ed68f81b4ae848455",
-        "text": "Уникальный факт для Владимира.",
+        "_id": "6667262c7bd88eb3468ece7e",
+        "user": "666093d9d3f3230670c35b0b",
+        "text": "Cats like dogs.",
         "type": "cat",
         "deleted": false,
-        "createdAt": "2023-09-12T09:34:21.960Z",
-        "updatedAt": "2023-09-12T09:34:21.960Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "63c403642e5d8fd503485082",
-        "user": "63ba7c9d9964acb3c4caa7ce",
-        "text": "Rrrrr.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2023-01-15T13:45:08.505Z",
-        "updatedAt": "2023-01-15T13:45:08.505Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "626d68bc02af68f9e3f08be0",
-        "user": "626d689202af68f9e3f08bcd",
-        "text": "Best at doing one thing.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2022-04-30T16:50:04.955Z",
-        "updatedAt": "2022-04-30T16:50:04.955Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "627a4dca7d22f6d66ab0a172",
-        "user": "626d537de5fb639a3c4fed64",
-        "text": "Features of cats Cats can jump five times their own height.  Cats do not see in the dark, but the structure of the cat's eye allows these animals to clearly distinguish objects under lighting that is six times worse than what a person needs for clear vision. In the semi-darkness, objects barely visible to the human eye are clearly visible to the cat.  Sweat glands in cats are located only on the paws.  Cats sleep an average of 14-18 hours a day.  The cat's ear has about thirty muscles, while the human ear has only six. The cat can rotate its ear separately by 180 degrees. Thus, it simultaneously captures and analyzes sounds coming from two directions.  When the smell enters the cat's open mouth, the molecules are caught by the sky, on which the highly sensitive organ Jacob's brain is located. With the help of this organ, cats can sense other cats at a distance of one hundred meters.  Cat skin produces sweat that contains a chemical called cholecalciferol. When a cat lies in the sun, this substance is converted into vitamin D under the influence of sunlight. If a cat lies in the sun and washes, then the vitamin enters the body by itself, nourishing the cat with energy.  White cats with blue eyes are more likely to be deaf.  With the help of the tail, the cat is able to transmit up to ten different signals, expressing emotions at the moment. The spectrum is very wide: from calm relaxation to active aggression towards the enemy.  Cats are able to see with their peripheral vision 285 degree.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2022-05-10T11:34:34.790Z",
-        "updatedAt": "2022-05-10T11:34:34.790Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": true,
-            "sentCount": 1
-        },
-        "_id": "591f98803b90f7150a19c1ed",
-        "__v": 0,
-        "text": "Kittens who are taken along on short, trouble-free car trips to town tend to make good passengers when they get older. They get used to the sounds and motions of traveling and make less connection between the car and the visits to the vet.",
-        "source": "api",
-        "updatedAt": "2020-08-23T20:20:01.611Z",
-        "type": "cat",
-        "createdAt": "2018-01-04T01:10:54.673Z",
-        "deleted": false,
-        "used": false,
-        "user": "5a9ac18c7478810ea6c06381"
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "6579bcff1109709f5a2b1574",
-        "user": "6570c87954b3ed21dc05aa52",
-        "text": "Cats spend 70% of their lives sleeping.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2023-12-13T14:17:35.358Z",
-        "updatedAt": "2023-12-13T14:17:35.358Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "63c004307faacb8ad47bb04e",
-        "user": "63bffafe7faacb8ad47ba92b",
-        "text": "Кот больной.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2023-01-12T12:59:28.786Z",
-        "updatedAt": "2023-01-12T12:59:28.786Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "63dc2cf22b393f8bf4bbe1d7",
-        "user": "63cd5150eec42e60ec32de30",
-        "text": "The pattern on the nose of each cat is unique, like human fingerprints. abaut TEST2.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2023-02-02T21:36:50.128Z",
-        "updatedAt": "2023-02-02T21:36:50.128Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": true,
-            "sentCount": 1
-        },
-        "_id": "591f7aab0cf1d60ee8afcd62",
-        "__v": 0,
-        "text": "The cat's clavicle, or collarbone, does not connect with other bones but is buried in the muscles of the shoulder region. This lack of a functioning collarbone allows them to fit through any opening the size of their head.",
-        "source": "api",
-        "updatedAt": "2020-08-23T20:20:01.611Z",
-        "type": "cat",
-        "createdAt": "2018-08-06T20:20:02.449Z",
-        "deleted": false,
-        "used": false,
-        "user": "5a9ac18c7478810ea6c06381"
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "65a0161f4a0b057f944c13f4",
-        "user": "6598632d22b133ae60b20a73",
-        "text": "A cat is not a dog1.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2024-01-11T16:23:59.360Z",
-        "updatedAt": "2024-01-11T16:23:59.360Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "63c53739658b95bea2c7bf6b",
-        "user": "63bbaedb305a83e75c1fc46f",
-        "text": "Sfb.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2023-01-16T11:38:33.289Z",
-        "updatedAt": "2023-01-16T11:38:33.289Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "62b092ef7ba56cc1ff718b2d",
-        "user": "62a873ca47a75f7c3fb4235e",
-        "text": "Ww34rr.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2022-06-20T15:31:59.454Z",
-        "updatedAt": "2022-06-20T15:31:59.454Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "65fda7b68961e5a4987d4185",
-        "user": "65e50ea7be13cdeda2fe1f42",
-        "text": "Cats are grey and black.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2024-03-22T15:45:58.482Z",
-        "updatedAt": "2024-03-22T15:45:58.482Z",
-        "__v": 0
-    },
-    {
-        "status": {
-            "verified": null,
-            "sentCount": 0
-        },
-        "_id": "627392b278a353cfcd522338",
-        "user": "6264e6a2b09884b2f29747f1",
-        "text": "!:№:!№;%:.",
-        "type": "cat",
-        "deleted": false,
-        "createdAt": "2022-05-05T09:02:42.612Z",
-        "updatedAt": "2022-05-05T09:02:42.612Z",
+        "createdAt": "2024-06-10T16:13:32.734Z",
+        "updatedAt": "2024-06-10T16:13:32.734Z",
         "__v": 0
     }
 ]
