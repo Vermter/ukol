@@ -77,7 +77,6 @@ for url in urls:
     text = soup.get_text()
     polozky = [p.strip() for p in re.split(r'</?H[1-3]>|\n|,|;|\.|:|\s{3,}', text) if p.strip()]
 
-
     # Seznam pro relevantní položky pro aktuální URL
     relevantni_polozky = []
 
