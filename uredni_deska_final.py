@@ -70,6 +70,7 @@ for url in urls:
         response.encoding = "utf-8"
         page_content = response.text
 
+
     # Zpracování obsahu
     soup = BeautifulSoup(page_content, "html.parser")
     
